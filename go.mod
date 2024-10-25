@@ -1,3 +1,3 @@
 module github.com/New-Beep/hello-golang
 
-go 1.22.5
+go 1.22
